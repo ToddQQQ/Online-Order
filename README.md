@@ -1,6 +1,3 @@
-# Online-Order: a Spring and Hibernate based online food ordering system
-* I have Implemented Rest API via Spring MVC including registration, menu searching and ordering.
-* I utilized Hibernate to access and operate the data storage and provided authentication service via Spring security.
-* Spring framework core technologies is applied to loosely decouple all the components in the application.
-* The client side was built with ReactJS and Ant Design to allow users to add items to the shopping cart or place an order
-#### I have deployed the service to AWS EC2 for better stability. The demo is accessible through this link <a href="http://54.221.66.15" target="_blank">Online Order Interface</a>.
+I developed a RESTful API using Spring MVC to support user registration, menu browsing, and order placement. Hibernate was integrated for database interactions, ensuring efficient data management, while Spring Security was implemented to handle authentication. The application follows Spring's core principles to maintain a loosely coupled architecture.
+
+On the frontend, I built the user interface with ReactJS and Ant Design, allowing users to browse menus, add items to their cart, and complete orders. 
